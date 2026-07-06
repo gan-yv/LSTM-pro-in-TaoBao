@@ -1,2 +1,3 @@
 # LSTM-pro-in-TaoBao
-This project uses hyperparameter-tuned LSTM to analyze Taobao e-commerce sales data. 
+This project adopts hyperparameter-optimized LSTM to analyze sales data of various goods on Taobao and similar e-commerce platforms. It cleans user behavior logs, conducts user segmentation and consumption analysis via SQL and Python, and builds core business metrics including retention, conversion and repurchase rate to study user consumption features and product preferences. It extracts multi-dimensional features with Pandas & NumPy, builds LSTM time-series forecasting model for sales trend prediction, establishes user portrait & data visualization system, and evaluates model performance with MAE/RMSE through comparative parameter experiments.
+
